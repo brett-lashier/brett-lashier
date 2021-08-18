@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brett-lashier
-- 👀 I’m interested in default templates such as this README template from gitlab
+- 👀 I’m interested in default templates such as this README template from github
 - 🌱 I’m currently learning reusable template design
 - 💞️ I’m looking to collaborate on anything other than reusable template design
 - 📫 How to reach me [If you work with me you know how]
